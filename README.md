@@ -1,9 +1,8 @@
-## Hi there 👋
+# Hi there 👋
 
+- 📊 Data analyst skilled in Python, SQL, Excel, and financial analytics
+- 💰 Finance background with portfolio analysis and risk management experience
+- 📱 Building projects in data wrangling, web scraping, and business intelligence
 
-
-- 🔭 I’m working on developing a professional profile
-- 🌱 I’m currently learning about database systems, python, corporate finance, operations management, and enterprise risk management.
-- 💬 Driven finance and business analytics student seeking to apply analytical, problem-solving, and innovation skills. 
-- 📫 How to reach me: bckhs@uiowa.edu or backhausethan10@gmail.com
-
+## How to reach me
+bckhs@uiowa.edu or backhausethan10@gmail.com
